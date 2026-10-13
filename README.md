@@ -1,7 +1,3 @@
-<a href="https://leonardomonteiroo.github.io/personal-portfolio/">
-  <img src="banner.png" alt="Leonardo Monteiro, Full Stack Developer and Tech Lead" width="100%">
-</a>
-
 I'm a full-stack developer and tech lead at Clinicorp, working on the financial module of a healthcare SaaS used by 30,000+ dental clinics. I lead a team of six developers and still write a lot of the code: TypeScript, React and Node.js on Google Cloud.
 
 These days I'm moving that module off a legacy JavaScript codebase into a TypeScript micro-frontend. On the side, I'm building [MoldAI](https://github.com/LeonardoMonteiroo/moldai).
