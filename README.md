@@ -20,6 +20,11 @@ These days I'm moving that module off a legacy JavaScript codebase into a TypeSc
 
 ## Toolbox
 
-TypeScript · React · Node.js · Fastify · Next.js · PostgreSQL · Prisma · Redis · Google Cloud (Datastore, Pub/Sub, BigQuery) · Jest · Vitest · Grafana · Docker
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,postgres,prisma,redis,gcp,jest,vitest,grafana,docker&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,postgres,prisma,redis,gcp,jest,vitest,grafana,docker&theme=light" alt="TypeScript, React, Node.js, Next.js, PostgreSQL, Prisma, Redis, Google Cloud, Jest, Vitest, Grafana, Docker">
+</picture>
+
+Also Fastify, Knex, Zod and Google Cloud Datastore, Pub/Sub and BigQuery.
 
 I speak Portuguese, English and some LIBRAS (Brazilian Sign Language).
