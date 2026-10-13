@@ -18,14 +18,6 @@ These days I'm moving that module off a legacy JavaScript codebase into a TypeSc
 **[transactions-api](https://github.com/LeonardoMonteiroo/transactions-api)**: financial transactions API with cookie sessions and end-to-end tests.
 <sub>Fastify · Knex · Zod · Vitest</sub>
 
-## From work
-
-Case studies on my portfolio:
-
-- [Migrating a legacy financial module to a TypeScript micro-frontend](https://leonardomonteiroo.github.io/personal-portfolio/cases/financial-micro-frontend/)
-- [Running a financial module in production: integrations and observability](https://leonardomonteiroo.github.io/personal-portfolio/cases/observability-and-production-support/)
-- [Raising engineering quality: tests, reviews and AI-assisted workflows](https://leonardomonteiroo.github.io/personal-portfolio/cases/engineering-quality-and-leadership/)
-
 ## Toolbox
 
 TypeScript · React · Node.js · Fastify · Next.js · PostgreSQL · Prisma · Redis · Google Cloud (Datastore, Pub/Sub, BigQuery) · Jest · Vitest · Grafana · Docker
